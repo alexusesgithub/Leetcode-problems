@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,12 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
