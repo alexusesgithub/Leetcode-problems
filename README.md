@@ -15,6 +15,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
