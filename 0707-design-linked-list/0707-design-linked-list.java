@@ -3,10 +3,12 @@ class MyLinkedList {
     class Node {
         int val;
         Node next;
+        Node prev;
 
-        Node(int val) {
+        Node(int val) {   
             this.val = val;
-            this.next = null;
+            next = null;
+            prev = null;
         }
     }
 
@@ -36,6 +38,7 @@ class MyLinkedList {
             head = tail = nn;
         } else {
             nn.next = head;
+            head.prev = nn;
             head = nn;
         }
 
@@ -49,6 +52,7 @@ class MyLinkedList {
             head = tail = nn;
         } else {
             tail.next = nn;
+            nn.prev = tail;   
             tail = nn;
         }
 
@@ -74,7 +78,11 @@ class MyLinkedList {
         }
 
         Node nn = new Node(val);
+
         nn.next = temp.next;
+        nn.prev = temp;
+
+        temp.next.prev = nn;   
         temp.next = nn;
 
         cnt++;
@@ -86,6 +94,10 @@ class MyLinkedList {
         if (index == 0) {
             head = head.next;
 
+            if (head != null) {
+                head.prev = null;  
+            }
+
             if (cnt == 1) {
                 tail = null;
             }
@@ -95,11 +107,15 @@ class MyLinkedList {
                 temp = temp.next;
             }
 
-            if (temp.next == tail) {
-                tail = temp;
-            }
+            Node del = temp.next;
 
-            temp.next = temp.next.next;
+            temp.next = del.next;
+
+            if (del.next != null) {
+                del.next.prev = temp;   
+            } else {
+                tail = temp;   
+            }
         }
 
         cnt--;
