@@ -7,7 +7,7 @@ Stack<Integer>minst;
     }
     
     public void push(int val) {
-       if(minst.isEmpty()||val<minst.peek())
+       if(minst.isEmpty()||val<=minst.peek())
        minst.push(val);
        st.push(val);
     }
@@ -17,7 +17,7 @@ Stack<Integer>minst;
         return;
         else
         {
-            if(st.peek()==minst.peek())
+            if(st.peek().equals(minst.peek()))
             minst.pop();
         }
         st.pop();
@@ -30,7 +30,9 @@ Stack<Integer>minst;
     }
     
     public int getMin() {
+        if(!minst.isEmpty())
         return minst.peek();
+        return -1;
         
     }
 }
