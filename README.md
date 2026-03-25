@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@
 | [0225-implement-stack-using-queues](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -103,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
