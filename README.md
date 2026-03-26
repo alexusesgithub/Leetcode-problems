@@ -49,6 +49,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -124,5 +126,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
