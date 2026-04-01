@@ -8,7 +8,10 @@ class Solution {
             st.push(ch);
             else
             {
+                if(st.isEmpty())
+                return false;
                 Character top=st.pop();
+
                 if(ch.equals(')')&&!top.equals('(')||ch.equals(']')&&!top.equals('[')||ch.equals('}')&&!top.equals('{'))
                 return false;
                 
