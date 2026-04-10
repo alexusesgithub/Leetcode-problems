@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Hash Table
@@ -143,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
