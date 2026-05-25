@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
