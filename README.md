@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -55,6 +56,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String
@@ -143,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
@@ -155,6 +158,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
