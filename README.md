@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## String
@@ -61,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -163,4 +165,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
