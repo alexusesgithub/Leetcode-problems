@@ -16,6 +16,7 @@
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1046-last-stone-weight](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/alexusesgithub/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -133,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [1046-last-stone-weight](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
