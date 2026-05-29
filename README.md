@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
@@ -201,4 +202,8 @@
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
