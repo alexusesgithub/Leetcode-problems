@@ -220,4 +220,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
