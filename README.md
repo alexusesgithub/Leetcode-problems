@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Simulation
@@ -206,4 +208,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0704-binary-search/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
