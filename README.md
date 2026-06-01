@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -120,6 +121,7 @@
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
