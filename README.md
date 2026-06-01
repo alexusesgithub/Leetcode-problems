@@ -78,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0091-decode-ways](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
@@ -128,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+| [0091-decode-ways](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
