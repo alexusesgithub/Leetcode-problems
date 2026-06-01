@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
@@ -248,4 +249,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
