@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -108,6 +109,7 @@
 | [0061-rotate-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -241,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+| [0189-rotate-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
