@@ -81,6 +81,7 @@
 | [0091-decode-ways](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
