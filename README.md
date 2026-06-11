@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
@@ -82,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
@@ -196,6 +199,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/alexusesgithub/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
