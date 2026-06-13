@@ -282,5 +282,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1148-article-views-i](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/alexusesgithub/Leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
